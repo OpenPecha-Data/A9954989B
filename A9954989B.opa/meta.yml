@@ -1,0 +1,26 @@
+id: A9954989B
+title: Akṣayamatinirdeśa
+type: translation
+pechas:
+- I36B356C1
+- I6D0C9A23
+- I9F272178
+- I88B92E58
+- IAB75D6BD
+- I36F916C5
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 14:50:13.043532
+  last_modified_at: 2023-02-08 14:50:13.043545
+alignment_to_base:
+  I36B356C1/7618: A1F7
+  I6D0C9A23/21AE: A1F7
+  I9F272178/CB2E: A1F7
+  I88B92E58/58A5: A1F7
+  IAB75D6BD/8AF9: A1F7
+  I36F916C5/660C: A1F7
